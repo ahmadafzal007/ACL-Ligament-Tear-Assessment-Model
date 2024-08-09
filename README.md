@@ -38,9 +38,9 @@ The following datasets were used to train the CNN models in this project:
 
 ### Prerequisites
 
-- Python 3.x
+- Python 
 - Streamlit
-- TensorFlow
+- TensorFlow==2.12.0   
 - OpenCV
 - Numpy
 
